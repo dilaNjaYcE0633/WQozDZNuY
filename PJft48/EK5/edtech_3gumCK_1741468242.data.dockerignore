@@ -14,5 +14,3 @@ node_modules
 build
 package
 **/.env
-
-.pnpm-store/*
