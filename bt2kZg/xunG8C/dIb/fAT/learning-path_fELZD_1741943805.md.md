@@ -21,5 +21,4 @@ Here is a simplified flow:
 
 ![mermaid-diagram-2023-06-13-123035](https://github.com/techiescamp/kubernetes-learning-path/assets/106984297/ecf96b01-80d7-4e5f-b81b-46f426eb4c90)
 
->**Note**: you can set up garbage collection policies to manage how it functions, including how frequently it runs and what it should prioritize. This helps keep your Kubernetes environment clean, efficient, and optimized.
 
