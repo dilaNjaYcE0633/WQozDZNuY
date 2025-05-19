@@ -8,7 +8,6 @@ OR_APP_NAME = "LiteLLM Example app"
 OR_API_KEY = ""
 # Azure API base URL
 AZURE_API_BASE = ""
-# Azure API version
 AZURE_API_VERSION = ""
 # Azure API key
 AZURE_API_KEY = ""
