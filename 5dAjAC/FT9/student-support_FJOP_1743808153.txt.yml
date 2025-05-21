@@ -18,7 +18,6 @@ engines:
       languages:
       - ruby
   eslint:
-    enabled: false
   fixme:
     enabled: true
   rubocop:
