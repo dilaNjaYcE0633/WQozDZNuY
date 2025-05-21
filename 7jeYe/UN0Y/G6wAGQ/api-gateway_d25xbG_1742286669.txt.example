@@ -3,7 +3,6 @@ OPENAI_API_KEY = ""
 COHERE_API_KEY = ""
 # OpenRouter
 OR_SITE_URL = ""
-# Azure API base URL
 AZURE_API_BASE = ""
 AZURE_API_VERSION = ""
 # Azure API key
