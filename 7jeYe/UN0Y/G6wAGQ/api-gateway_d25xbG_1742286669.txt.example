@@ -1,4 +1,3 @@
-# OpenAI
 OPENAI_API_KEY = ""
 # Cohere
 COHERE_API_KEY = ""
