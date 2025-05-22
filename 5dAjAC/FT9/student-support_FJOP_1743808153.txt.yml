@@ -20,7 +20,6 @@ engines:
   fixme:
   rubocop:
     enabled: true
-    
       Rubocop/Metrics/LineLength:
         enabled: false
 ratings:
