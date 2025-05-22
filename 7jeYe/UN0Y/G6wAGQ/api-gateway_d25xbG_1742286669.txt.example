@@ -6,7 +6,6 @@ OR_SITE_URL = ""
 AZURE_API_BASE = ""
 AZURE_API_VERSION = ""
 # Azure API key
-AZURE_API_KEY = ""
 REPLICATE_API_KEY = ""
 REPLICATE_API_TOKEN = ""
 # Infisical
