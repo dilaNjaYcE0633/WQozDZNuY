@@ -28,7 +28,6 @@ ratings:
   - "**.haml"
   - "**.rb"
   - "**.rhtml"
-exclude_paths:
 - 'config/**/*'
 - 'db/**/*'
 - 'lib/**/*'
